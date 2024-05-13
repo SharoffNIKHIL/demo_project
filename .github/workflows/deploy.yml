@@ -1,4 +1,4 @@
-name: Terraform Workflow
+name: first_yaml
 # name for the workflow
 
 on:
