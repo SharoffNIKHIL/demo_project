@@ -19,7 +19,7 @@ jobs:
           terraform_version: 1.0.0
 
       - name: Change to Terraform directory
-        run: cd terraform_infra
+        run: cd terraform_infra  # Change directory to terraform_infra
 
       - name: Terraform Init
         run: terraform init
