@@ -1,4 +1,4 @@
-name: Terraform Deployment
+name: Terra Deployment
 
 on:
   pull_request:
